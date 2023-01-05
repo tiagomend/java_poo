@@ -50,3 +50,14 @@ Fazer um programa para ler o nome de um aluno e as três notas que ele obteve no
 * Classe
 * Objetos
 * Métodos
+
+## 4. Exercício: Produto em Estoque
+
+Faça um programa que leia o nome de um produto, o preço e a quantidade em estoque. Logo após, adicione uma quantidade N de produto no estoque, e mostre o valor total. Por fim, remove uma quantidade N do estoque e mostre o valor total.
+
+### Conceitos utilizados
+
+* Construtor
+* This
+* Encapsulamento
+* Getters e Setters
